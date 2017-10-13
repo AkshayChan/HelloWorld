@@ -1,4 +1,4 @@
-#First app in Kotlin
+First app in Kotlin
 
 Akshay Chandiramani
 s1558717
